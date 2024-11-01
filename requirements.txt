@@ -1,0 +1,4 @@
+# For now, it's empty as we're only using standard library
+# Later you might add:
+# pytest==7.4.3
+# python-dotenv==1.0.0
